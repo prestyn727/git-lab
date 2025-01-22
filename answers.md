@@ -14,4 +14,25 @@ Answer 4:
 cd: no such file or directory: git-lab
 
 Answer 5:
-the  new file:   prestyn727.md  is green and the  answers.md  is red
+The  new file:   README.md  is green and the  answers.md  is red
+
+Answer 6: 
+Now both files are green
+
+Answer 7:
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 8:
+commit b4d53cfb3ae2cc792c8c1bafc37bb7a7f49bf6d3 (HEAD -> main)
+Author: Your name <Your email>
+Date:   Wed Jan 22 16:48:32 2025 -0500
+
+    Initial commit
+
+Answer 9:
