@@ -36,3 +36,15 @@ Date:   Wed Jan 22 16:48:32 2025 -0500
     Initial commit
 
 Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10:
+I don't see the updated README.md file
+
+Answer 11:
+I don't see the updated README.md file
+
+Answer 12: 
